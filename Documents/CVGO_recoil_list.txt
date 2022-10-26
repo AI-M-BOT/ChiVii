@@ -1,0 +1,9 @@
+ak47=1
+m4a4=2
+galil=3
+famas=4
+sg553=5
+aug=6
+m4a1=7
+bizon=8
+cz75=9

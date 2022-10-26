@@ -1,0 +1,7 @@
+1; Open this turn_around_ex.exe as administrator
+2; Enter a game, choose and join a training room
+3; Control your gun aiming at a point where you cannot forget
+4; press and hold right curser key (shape like ->), wait until your charactor turn around and aim at original position
+5; If move pass original position a bit, press and hold left curser key to turn back
+6; If not moving at all, press right ctrl key then retry
+7; Quit your game, check cmd window of turn_around.exe and then press "End" key, remember the turn around data (likely in range 2500 ~ 15000), put it in your config file, right beside "fov calculation = ", under your game process name (like csgo.exe)
