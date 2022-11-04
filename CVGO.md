@@ -52,7 +52,7 @@
 <br/><br/>
 
 ## 🎈🎈🎈Promotion:
-* Join **[Discord](https://discord.gg/XGhacSc779)**, read information and create ticket
+* Join **[Discord](https://discord.gg/8N6ehqjQwH)**, read information and create ticket
 * AIMBOT IS NOT free, join the server for details (please read), but I will also release a free version
 * There is a FREE weights shared previously for people who want to code their own program. Enjoy. (class 0: head; class 1: body, 416*416, Yolov4-tiny)
 * Also a slightly modified version of [labelimg](Free_stuffs/labelImg_cx.exe), with zoom up to 1000% and no fuzzy, better for moving tiny labels
