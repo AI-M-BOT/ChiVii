@@ -66,7 +66,11 @@
 <details>
 <summary>Arduino Leonardo + USB host shield</summary>
 
-* External hardware (Arduino Leonardo + USB host shield) can be purchased at [Amazon - Arduino Leonardo](https://www.amazon.com/KEYESTUDIO-Leonardo-Development-Board-Arduino/dp/B0786LJQ8K/) and [Amazon - USB host shield](https://www.amazon.com/ARCELI-Shield-Arduino-Support-Android/dp/B07J2KKGZ4/) or [Ebay - USB host shield](https://www.ebay.com/itm/393311967986), and here is a [video](https://www.youtube.com/watch?v=1dxwU87GQVM) shows how you should install them
+* External hardware (Arduino Leonardo + USB host shield) can be purchased at [Amazon - Arduino Leonardo](https://www.amazon.com/KEYESTUDIO-Leonardo-Development-Board-Arduino/dp/B0786LJQ8K/) and [Amazon - USB host shield](https://www.amazon.com/ARCELI-Shield-Arduino-Support-Android/dp/B07J2KKGZ4/) or [Ebay - USB host shield](https://www.ebay.com/itm/393311967986)
+* [Here](https://github.com/AI-M-BOT/The_University_of_League_Cheats/tree/main/Arduino) is all the files you need for Arduino
+* Here is a [video](https://www.youtube.com/watch?v=1dxwU87GQVM) shows how to solder it to avoid a no power problem
+* This [video](https://www.youtube.com/watch?v=y5znFDmY5V4) briefly go through steps how to upload code to Arduino device (pls ignore the coding part since i did that for you, also in our case we are using Leonardo instead of UNO)
+* This [video](https://www.youtube.com/watch?v=NlUyUGYHMAc) basically covers all the details when using Arduino device to simulate mouse actions
 * If you choose to use Arduino, do realize that you need to solder those three lacations ![image](Arduino/Notice.png)
 </details>
 
