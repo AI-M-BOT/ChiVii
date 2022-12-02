@@ -21,7 +21,9 @@
         \::/    /                                         \::/____/                 ~~
          \/____/
 ```
-# 🚀🚀🚀𝒀𝑶𝑳𝑶𝒗 𝑽/𝑽𝑰/𝑽𝑰𝑰/𝑿 𝒃𝒂𝒔𝒆𝒅 𝒂𝒊𝒎 𝒂𝒔𝒔𝒊𝒔𝒕
+
+> # **🚀🚀🚀𝒀𝑶𝑳𝑶𝒗 𝑽/𝑽𝑰/𝑽𝑰𝑰/𝑿 𝒃𝒂𝒔𝒆𝒅 𝒂𝒊𝒎 𝒂𝒔𝒔𝒊𝒔𝒕**
+
 ![image](Gui/cmd.png)
 <details>
 <summary>CMD more explanation</summary>
@@ -83,11 +85,11 @@
 * ✅Safer version which pure relies on python.exe (Done)
 * ✅Support Arduino Leonardo + USB host shield (Done)
 * ⚠Hide process from task manager (Done, test not safe)
-* ⭕Better weights for Valorant and PUBG (Delayed)
+* ⭕Better weights for Valorant and PUBG (ongoing)
 * ✅Accurate recoil control for some games (Done for CSGO, available only in pro version)
 * ⭕Players can download at different time will get different files (with same file names but content changed)
 * ✅[Free version](https://github.com/JiaPai12138/AI-M-BOT)
-* ⭕More organized gui
+* ⭕More organized gui(ongoing, only in pro version)
 
 <br/><br/>
 
