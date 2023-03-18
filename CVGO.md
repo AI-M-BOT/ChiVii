@@ -22,7 +22,7 @@
          \/____/
 ```
 
-> # **🚀🚀🚀𝒀𝑶𝑳𝑶𝒗 𝑽/𝑽𝑰/𝑽𝑰𝑰/𝑿 𝒃𝒂𝒔𝒆𝒅 𝒂𝒊𝒎 𝒂𝒔𝒔𝒊𝒔𝒕**
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&width=450&lines=YOLO+v5/v6/v7/v8/X+based+Aim+Assist!" alt="Typing SVG" /></a> </p>
 
 ![image](Gui/cmd.png)
 <details>
